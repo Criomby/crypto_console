@@ -19,6 +19,24 @@ Verify your download:<br>
 <br>
 
 <h2>Getting started:</h2><br>
+<ul>
+  <li>Run the program.</li>
+  <li>The data will automatically update every 24h from the point of start.</li>
+  <li>Quit with 'Ctrl + C'.</li>
+</ul>
+<br>
+
+<h2>Properties:</h2><br>
+<ul>
+  <li>An active internet connection is required to start the program and for every update.</li>
+  <li>Quit the program anytime with 'Ctrl + C' shortcut.</li>
+</ul>
+<br>
+The program uses the CoinGecko API & the EthGas.watch API to get the lastest data.<br>
+For the currency conversion of usd data a static conversion rate from the 07.12.21 (usd-eur) is used.<br>
+However, a template for the CurrencyLayer API is provided within the code to automatically get the latest<br>
+USDEUR conversion rate with every update (you just have to get your own API key from them <a href='https://currencylayer.com/'>here</a>).
+<br>
 
 <h2>FAQ:</h2><br>
 Regarding questions or other inquiries message me at:<br>
