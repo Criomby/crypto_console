@@ -193,3 +193,5 @@ class CurrencyConversion:
 def get_update_time():
     now = datetime.now()
     return now.strftime("%d.%m.%Y %H:%M:%S")
+
+# Copyright 2021 Philippe Braum
