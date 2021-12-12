@@ -16,13 +16,14 @@ Your antivirus might flag the program when trying to open it for the first time.
 
 Verify your download:<br>
 (SHA256sum) 25db2d38a2c212bdc813feed12ede6b9447537edc393c4ea3671213a992b47af<br>
+(To verify your download you can use the <a href='https://github.com/Criomby/AutoHasher'>AutoHasher</a>)
 <br>
 <br>
 
 <h2>Getting started:</h2><br>
 <ul>
   <li>Run the program.</li>
-  <li>The data will automatically update every 24h from the point of start.</li>
+  <li>The data will automatically update every 1h from the point of start.</li>
   <li>Quit with 'Ctrl + C'.</li>
 </ul>
 <br>
