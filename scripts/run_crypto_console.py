@@ -60,3 +60,5 @@ if __name__ == '__main__':
             time.sleep(3600)
     except KeyboardInterrupt:
         pass
+
+    # Copyright 2021 Philippe Braum
