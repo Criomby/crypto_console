@@ -53,9 +53,9 @@ To run the program on MacOS, download the two scripts and run them in your IDE o
 <ul><li><strong>Windows Defender doesn't let me run the program:</strong><br></ul></li>
 MS Windows' built-in antivirus Windows Defender automatically blocks any kind of unknown programs by default.<br>
 <br>
-<b>&nbsp&nbsp&nbsp&nbsp&nbspBe reassured:</b> Everything takes place on your local machine without access to the internet.<br>
+<b>&nbsp&nbsp&nbsp&nbsp&nbspBe reassured:</b> Everything takes place on your local machine and no data is sent out.<br>
 <br>
-You can still check the source code of the executable yourself if you want to: https://github.com/Criomby/hubspool/archive/refs/tags/v2.5.2.zip<br>
+You can still check the source code of the executable yourself if you want to: https://github.com/Criomby/crypto_console/archive/refs/tags/v1.0.zip<br>
 <br>
 
 To run the program, follow the process below:<br>
