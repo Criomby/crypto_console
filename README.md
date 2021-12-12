@@ -2,7 +2,7 @@
 A program which gets and displays the latest crypto currency market stats efficiently and consisely.
 <br>
 <br>
-<p align=center><img src="https://user-images.githubusercontent.com/86114549/145587915-55e2c620-d359-4647-989d-255fc567af93.png" alt="Crypto_Console_v1.0" width="630"><p>
+<p align=center><img src="https://user-images.githubusercontent.com/86114549/145729778-32c26592-8b64-4a2d-acb5-17a187dc95da.png" alt="Crypto_Console_v1.0" width="630"><p>
 <br>
 
 ## Download Info: <br>
