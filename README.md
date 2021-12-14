@@ -32,6 +32,8 @@ Verify your download:<br>
 <ul>
   <li>An active internet connection is required to start the program and for every update.</li>
   <li>Quit the program anytime with 'Ctrl + C' shortcut.</li>
+  <li>Although the program will adjust to the default aspect ratio of your command prompt,<br>
+  an aspect ration of 1:2 is recommended for the best content representation.</li>
 </ul>
 <br>
 The program uses the CoinGecko API & the EthGas.watch API to get the lastest data.<br>
