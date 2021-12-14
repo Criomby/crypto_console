@@ -38,8 +38,8 @@ Verify your download:<br>
 <br>
 The program uses the CoinGecko API & the EthGas.watch API to get the lastest data.<br>
 For the currency conversion of usd data a static conversion rate from the 07.12.21 (usd-eur) is used.<br>
-However, a template for the CurrencyLayer API is provided within the code to automatically get the latest<br>
-USDEUR conversion rate with every update (you just have to get your own API key from them <a href='https://currencylayer.com/'>here</a>).
+However, a template for the Alpha Vantage API is provided within the code to automatically get the latest<br>
+USD-EUR conversion rate with every update (you just have to get your own API key from them <a href='https://www.alphavantage.co/support/#api-key'>here</a>).
 <br>
 
 <h2>FAQ:</h2><br>
