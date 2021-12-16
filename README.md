@@ -7,7 +7,7 @@ A program which gets and displays the latest crypto currency market stats effici
 
 ## Download Info: <br>
 <h3> Latest ready-to-use version:</h3>
-<h3><a href='https://github.com/Criomby/crypto_console/releases/download/v1.0/Crypto_Console_v1.0.exe'>Download Crypto_Console_v1.0</a><br></h3>
+<h3><a href='https://github.com/Criomby/crypto_console/releases/download/v1.1/Crypto_Console_v1.1.exe'>Download Crypto_Console_v1.1</a><br></h3>
 <br>
 Download the .exe and execute it as an administrator.<br>
 <br>
@@ -15,7 +15,7 @@ Your antivirus might flag the program when trying to open it for the first time.
 <h3>Be reassured: It's open source and safe for you and your data.</h3><br>
 
 Verify your download:<br>
-(SHA256sum) 25db2d38a2c212bdc813feed12ede6b9447537edc393c4ea3671213a992b47af<br>
+(SHA256sum) d60be6087bf6f86c32e5a64f83e53b7b55305adb91c629ef9fd627fd6b052c26<br>
 (To verify your download you can use the <a href='https://github.com/Criomby/AutoHasher'>AutoHasher</a>)
 <br>
 <br>
