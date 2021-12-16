@@ -23,23 +23,23 @@ Verify your download:<br>
 <h2>Getting started:</h2><br>
 <ul>
   <li>Run the program.</li>
-  <li>The data will automatically update every 1h from the point of start.</li>
-  <li>Quit with 'Ctrl + C'.</li>
+  <li>The data will automatically update every 30 mins. from the point of start.</li>
+  <li>Enter menu with 'Ctrl + C'. Then either manually refresh with 'r' of exit with 'e'.</li>
 </ul>
 <br>
 
 <h2>Properties:</h2><br>
 <ul>
   <li>An active internet connection is required to start the program and for every update.</li>
-  <li>Quit the program anytime with 'Ctrl + C' shortcut.</li>
+  <li>Manually refresh / quit the program anytime with 'Ctrl + C' shortcut.</li>
   <li>Although the program will adjust to the default aspect ratio of your command prompt,<br>
   an aspect ration of 1:2 is recommended for the best content representation.</li>
 </ul>
 <br>
 The program uses the CoinGecko API & the EthGas.watch API to get the lastest data.<br>
-For the currency conversion of usd data a static conversion rate from the 07.12.21 (usd-eur) is used.<br>
-However, a template for the Alpha Vantage API is provided within the code to automatically get the latest<br>
-USD-EUR conversion rate with every update (you just have to get your own API key from them <a href='https://www.alphavantage.co/support/#api-key'>here</a>).
+For the currency conversion of usd data a free API key from Alpha Vantage is used.<br>
+The program works for a max. of 10 users running simultaneously.<br>
+(If the API throws an error code, get your own API key from them <a href='https://www.alphavantage.co/support/#api-key'>here</a>).
 <br>
 
 <h2>FAQ:</h2><br>
