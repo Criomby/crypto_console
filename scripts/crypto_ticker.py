@@ -117,7 +117,7 @@ class EtherGasStats:
 
 class CurrencyConversion:
     def __init__(self):
-        self.url = 'https://www.alphavantage.co/query?function=CURRENCY_EXCHANGE_RATE&from_currency=USD&to_currency=EUR&apikey=57J8AV3G9DNMX9NC'
+        self.url = 'https://www.alphavantage.co/query?function=CURRENCY_EXCHANGE_RATE&from_currency=USD&to_currency=EUR&apikey=C4WW1E9WCPARBIHI'
 
         headers = {
             'Accepts': 'application/json',
