@@ -10,7 +10,7 @@ import sys
 class Tickerr:
 
     def __init__(self):
-        self.version = 'v1.0'
+        self.version = 'v1.2'
         self.console = Console()
         with open('cc_logo.txt', encoding='utf-8') as f:
             self.logo = f.read()
