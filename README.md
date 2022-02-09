@@ -58,7 +58,7 @@ Verify your download:<br>
 The program uses the CoinGecko API & the EthGas.watch API to get the lastest data.<br>
 For the currency conversion of usd data a free API key from Alpha Vantage is used.<br>
 The program works for a max. of 10 users running simultaneously due to the Alpha Vantage free API call limit.<br>
-(If the API throws an error code, get your own API key from them <a href='https://www.alphavantage.co/support/#api-key'>here</a>).
+(Get your own API key from them <a href='https://www.alphavantage.co/support/#api-key'>here</a>).
 <br>
 
 <h2>FAQ:</h2><br>
