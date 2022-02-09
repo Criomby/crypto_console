@@ -2,11 +2,21 @@
 A program which gets and displays the latest crypto currency market stats efficiently and consisely.
 <br>
 <br>
-<p align=center><img src="https://user-images.githubusercontent.com/86114549/146288029-2b94e7c9-4612-41ae-be04-ae6ebe546716.png" alt="Crypto_Console_v1.1" width="630"><p>
+<p align=center>
+  <img src="https://user-images.githubusercontent.com/86114549/153181733-51e71c49-c840-4ee6-a77c-09a7d7e056f7.png" alt="Crypto_Console_v1.2" width="950">
+<p>
+<br>
+<p align=center>
+  Latest exe version (still at v1.1):<br>
+  <img src="https://user-images.githubusercontent.com/86114549/146288029-2b94e7c9-4612-41ae-be04-ae6ebe546716.png" alt="Crypto_Console_v1.1" width="630">
+<p>
 <br>
 
 ## Download Info: <br>
 <h3> Latest ready-to-use version:</h3>
+<b>Note:</b><br>
+The .exe version is still at v1.1.<br>
+To get the lastest version, run the script itself in your python dist / env.<br>
 <h3><a href='https://github.com/Criomby/crypto_console/releases/download/v1.1/Crypto_Console_v1.1.exe'>Download Crypto_Console_v1.1</a><br></h3>
 <br>
 Download the .exe and execute it as an administrator.<br>
@@ -32,8 +42,17 @@ Verify your download:<br>
 <ul>
   <li>An active internet connection is required to start the program and for every update.</li>
   <li>Manually refresh / quit the program anytime with 'Ctrl + C' shortcut.</li>
-  <li>Although the program will adjust to the default aspect ratio of your command prompt,<br>
-  an aspect ration of 1:2 is recommended for the best content representation.</li>
+  <li>Although the program will adjust to the default width of your command prompt,<br>
+  a specific height/width of your default terminal window is recommended for right content display:<br>
+    <ul>
+      <li>
+      Min. terminal size: Lines: 49; Columns: 118
+      </li>
+      <li>
+      Everything below these two values will result in display errors.<br>
+      </li>
+    </ul>
+  </li>
 </ul>
 <br>
 The program uses the CoinGecko API & the EthGas.watch API to get the lastest data.<br>
