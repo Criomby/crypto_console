@@ -1,0 +1,20 @@
+1.2: 
+Added exception for scenario where API call is good, but data provided has changed / is faulty,
+so it throws an error message for the respective table but other data is still shown and processed;
+Layout: market stats on top;
+Coins table shows stats of top 15 coins;
+New footer: Logging functionality used for update time,
+version numbering moved to footer;
+Numpy update deprecated append method,
+replaced with concenate method.
+
+1.1: 
+First production release:
+Added internet check at startup and each refresh + error messages and options to exit or retry for connection.
+30 mins. refresh interval.
+Option to manuall refresh feed.
+Checks API response code and if response is not 200, an error and the API response will be shown.
+Changed fx rate api from currencylayer to alpha vantage.
+
+1.0: 
+First pre-production release.
