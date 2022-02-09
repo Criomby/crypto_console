@@ -33,7 +33,7 @@ Verify your download:<br>
 <h2>Getting started:</h2><br>
 <ul>
   <li>Run the program.</li>
-  <li>The data will automatically update every 30 mins. from the point of start.</li>
+  <li>The data will automatically update every 10 mins. from the point of start.</li>
   <li>Enter menu with 'Ctrl + C'. Then either manually refresh with 'r' of exit with 'e'.</li>
 </ul>
 <br>
