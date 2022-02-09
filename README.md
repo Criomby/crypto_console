@@ -107,4 +107,4 @@ Wallet adress:<br>
 Supported currencies: USDT, USDC, DAI, BAT, ETH <br>
 <br>
 <br>
-© 2021 Criomby
+© 2022 Criomby
