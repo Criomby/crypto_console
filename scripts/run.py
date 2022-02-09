@@ -16,7 +16,6 @@ class Tickerr:
             self.logo = f.read()
 
     def main(self):
-
         CGS = CoingeckoStats()
         EGS = EtherGasStats()
         CCV = CurrencyConversion()
@@ -108,3 +107,4 @@ if __name__ == '__main__':
         except KeyboardInterrupt:
             if CTR.input_diag_shortcut():
                 continue
+                
