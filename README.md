@@ -1,5 +1,5 @@
 # Crypto Console
-A program which gets and displays the latest crypto currency market stats efficiently and consisely.
+A CLI app which gets and displays the latest crypto currency market stats efficiently and consisely.
 <br>
 <br>
 <p align=center>
