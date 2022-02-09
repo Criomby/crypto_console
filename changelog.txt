@@ -5,7 +5,7 @@ Layout: market stats on top;
 Coins table shows stats of top 15 coins;
 New footer: Logging functionality used for update time,
 version numbering moved to footer;
-Numpy update deprecated append method,
+Pandas update to 1.4.0 deprecated append method,
 replaced with concenate method.
 
 1.1: 
