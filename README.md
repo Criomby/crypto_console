@@ -3,7 +3,13 @@ A CLI app which gets and displays the latest crypto currency market stats effici
 <br>
 <br>
 <p align=center>
-  <img src="https://user-images.githubusercontent.com/86114549/153181733-51e71c49-c840-4ee6-a77c-09a7d7e056f7.png" alt="Crypto_Console_v1.2" width="950">
+  Version 1.3:<br>
+  <img src="https://user-images.githubusercontent.com/86114549/153181733-51e71c49-c840-4ee6-a77c-09a7d7e056f7.png" alt="Crypto_Console_v1.3_large" width="950">
+<p>
+<br>
+<p align=center>
+  Version 1.3 (small screen size):<br>
+  <img src="https://user-images.githubusercontent.com/86114549/153722174-1ef01509-36b3-4a94-9aa9-7bc3424ddb35.png" alt="Crypto_Console_v1.3_small_display" width="785">
 <p>
 <br>
 <p align=center>
